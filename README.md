@@ -1,6 +1,8 @@
 # Chat Web App
 Chat web application built using node.js and Socket.IO.
+
 First you need to fill username and the name of the room you want to join and then you can join to the chat.
+
 In the follwing link you can take a look at this app:
 https://chat-app-nodeja-noam.herokuapp.com
 
