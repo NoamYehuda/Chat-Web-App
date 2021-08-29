@@ -14,9 +14,3 @@ https://chat-app-nodeja-noam.herokuapp.com
 * Blocking the option of sending bad words.
 * Does not allow two users to have the same username in the same room.
 
-# In progress
-* Using database to save the chat data.
-* A list of all the active rooms.
-* Sending pictures and emojis.
-
-Update version will come soon!
